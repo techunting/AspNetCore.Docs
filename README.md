@@ -6,7 +6,7 @@ The [`dotnet/AspNetDocs` GitHub repository](https://github.com/dotnet/AspNetDocs
 
 ## How to open an issue
 
-If the issue is with an ASP.NET Core document:
+If the issue is with an ASP.NET Core document
 
 * Do **not** open a blank issue.
 * Open the issue using the **Open a documentation issue** link and feedback form at the bottom of the article. 
